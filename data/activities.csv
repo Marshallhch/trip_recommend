@@ -1,0 +1,201 @@
+activity_id,poi_id,activity,when,tags,need_reservation,est_cost_krw
+A001,S003,빈대떡+육회 맛보기,점심,foodie|streetfood,False,12000
+A002,S004,케이블카 타고 야경 감상,저녁,night|view|photography,False,15000
+A003,B003,활어회 시식,점심,foodie|seafood,False,25000
+A004,B002,벽화 골목 포토투어,오전,culture|photography,False,0
+A005,J001,일출 트레킹,이른아침,nature|hiking|view,False,0
+A006,J002,바이크 또는 카트 투어,오후,nature|bike|beach,True,30000
+A007,G012,사찰 투어 및 사진 촬영,오전,culture|history|photography,False,6000
+A008,S009,카페 라운딩,오후,cafe|walking|foodie,False,8000
+A009,S004,해산물 맛보기,이른아침,foodie|seafood,False,45000
+A010,B002,공연 관람,저녁,culture|entertainment|friends,True,50000
+A011,J002,공연 관람,저녁,culture|entertainment|family,True,80000
+A012,J014,마사지 체험,오후,relaxation|wellness|solo,True,120000
+A013,G003,전통 건축 탐방,오전,culture|history,False,15000
+A014,J002,전망대 관람,오후,view|photography|outdoor,False,20000
+A015,S002,요리 클래스,점심,cooking|culture|experience,True,60000
+A016,S017,카페 탐방,오후,cafe|foodie,False,12000
+A017,J001,노래방 체험,이른아침,entertainment|nightlife,False,15000
+A018,G011,노래방 체험,점심,entertainment|nightlife,False,20000
+A019,S003,디저트 맛집 투어,저녁,foodie|dessert,False,15000
+A020,S003,노래방 체험,저녁,entertainment|nightlife|friends,False,20000
+A021,S004,요리 클래스,오후,cooking|culture|experience,True,40000
+A022,G003,전통 공예 체험,오후,culture|experience,True,40000
+A023,B001,전통 시장 구경,오후,foodie|market|friends,False,15000
+A024,J003,패러글라이딩,하루종일,nature|adventure|view,True,100000
+A025,S004,명상 체험,오전,relaxation|spiritual|solo,True,40000
+A026,B001,요가 클래스,오전,relaxation|wellness,True,50000
+A027,B002,포토 투어,이른아침,photography|walking,False,25000
+A028,G002,요리 클래스,저녁,cooking|culture|experience,True,40000
+A029,S002,디저트 맛집 투어,오후,foodie|dessert,False,15000
+A030,J003,현지 공예품 구매,오후,shopping|souvenir|culture,False,50000
+A031,S001,게임방 체험,오후,entertainment|indoor,False,15000
+A032,J006,서핑 체험,오후,nature|beach|sports,True,60000
+A033,G003,현지 맛집 투어,저녁,foodie|local|friends,False,25000
+A034,S001,현지 공예품 구매,오후,shopping|souvenir|culture,False,50000
+A035,B001,스쿠버다이빙,이른아침,nature|water|sports,True,120000
+A036,G010,현지 공예품 구매,오후,shopping|souvenir|culture,False,50000
+A037,B002,현지 술집 체험,저녁,foodie|nightlife,False,35000
+A038,B002,일출 감상,이른아침,nature|view|photography,False,0
+A039,J001,온천 체험,저녁,relaxation|wellness,False,20000
+A040,G001,면세점 쇼핑,오후,shopping|luxury,False,200000
+A041,S004,문화재 해설 투어,오후,culture|history|photography|friends,True,35000
+A042,S018,테마파크 투어,하루종일,entertainment|family|family,False,100000
+A043,S003,요리 클래스,오후,cooking|culture|experience,True,40000
+A044,S001,스파/찜질방,저녁,relaxation|wellness|outdoor,False,25000
+A045,B002,언어 교환,오후,culture|language|social|friends,False,20000
+A046,J003,카약 체험,오후,nature|water|sports,True,60000
+A047,G001,카약 체험,오후,nature|water|sports,True,35000
+A048,B003,공연 관람,저녁,culture|entertainment,True,30000
+A049,B001,전망대 관람,저녁,view|photography,False,10000
+A050,B002,명상 체험,오후,relaxation|spiritual,True,30000
+A051,G001,테마파크 투어,오후,entertainment|family|indoor,False,100000
+A052,S017,전통 시장 쇼핑,오후,shopping|souvenir|friends,False,20000
+A053,G003,패러글라이딩,오후,nature|adventure|view|indoor,True,100000
+A054,B002,테마파크 투어,오후,entertainment|family|outdoor,False,50000
+A055,B002,스파/찜질방,저녁,relaxation|wellness,False,25000
+A056,S003,전통 건축 탐방,오전,culture|history|outdoor,False,10000
+A057,G003,서예 체험,점심,culture|art|experience,True,30000
+A058,G002,일출 감상,이른아침,nature|view|photography|friends,False,0
+A059,S003,패러글라이딩,오후,nature|adventure|view,True,150000
+A060,G002,전통 춤 배우기,오후,culture|dance|experience,True,45000
+A061,S001,스쿠버다이빙,오전,nature|water|sports|outdoor,True,120000
+A062,B003,야경 감상,저녁,night|view|photography,False,0
+A063,S003,요리 클래스,오후,cooking|culture|experience,True,80000
+A064,J001,자전거 투어,오전,nature|bike|couple,True,30000
+A065,J001,박물관 관람,오후,culture|history|solo,False,12000
+A066,S004,전통 공예 체험,오후,culture|experience|family,True,20000
+A067,S006,자전거 투어,오전,nature|bike,True,20000
+A068,J003,역사 유적지 산책,오전,culture|history|walking|indoor,False,10000
+A069,S003,서예 체험,오후,culture|art|experience,True,40000
+A070,S004,전통 건축 탐방,오전,culture|history,False,15000
+A071,G002,야경 감상,오전,night|view|photography,False,10000
+A072,G003,문화재 해설 투어,오전,culture|history|photography|friends,True,25000
+A073,S001,현지 술집 체험,오후,foodie|nightlife|solo,False,35000
+A074,G002,스쿠버다이빙,오전,nature|water|sports|indoor,True,80000
+A075,G001,역사 유적지 산책,오전,culture|history|walking,False,0
+A076,G003,면세점 쇼핑,하루종일,shopping|luxury,False,200000
+A077,S001,카페 탐방,오후,cafe|foodie|couple,False,12000
+A078,B002,온천 체험,저녁,relaxation|wellness,False,20000
+A079,B001,공연 관람,저녁,culture|entertainment,True,80000
+A080,S003,카페 탐방,이른아침,cafe|foodie,False,15000
+A081,G003,마사지 체험,오후,relaxation|wellness,True,50000
+A082,B008,도자기 만들기,오후,culture|craft|experience,True,40000
+A083,S002,카페 탐방,오후,cafe|foodie,False,8000
+A084,B003,서예 체험,오후,culture|art|experience|outdoor,True,40000
+A085,S002,드론 촬영 체험,오후,photography|technology|outdoor,True,70000
+A086,B003,마사지 체험,오후,relaxation|wellness|solo,True,80000
+A087,S004,게임방 체험,오후,entertainment|indoor,False,15000
+A088,G002,전망대 관람,이른아침,view|photography|indoor,False,20000
+A089,S002,명상 체험,오전,relaxation|spiritual,True,20000
+A090,G002,게임방 체험,오후,entertainment|indoor|couple,False,20000
+A091,S003,디저트 맛집 투어,이른아침,foodie|dessert,False,10000
+A092,G002,도자기 만들기,오후,culture|craft|experience,True,55000
+A093,G003,놀이공원,하루종일,entertainment|family,False,40000
+A094,G002,전통 시장 구경,이른아침,foodie|market,False,10000
+A095,S004,게임방 체험,오후,entertainment|indoor,False,20000
+A096,G001,전통 공예 체험,저녁,culture|experience,True,20000
+A097,S004,현지 맛집 투어,저녁,foodie|local,False,25000
+A098,J003,온천 체험,저녁,relaxation|wellness|outdoor,False,45000
+A099,G002,명상 체험,오전,relaxation|spiritual,True,30000
+A100,J001,전통 건축 탐방,오전,culture|history,False,15000
+A101,J003,패션 거리 쇼핑,저녁,shopping|fashion,False,100000
+A102,J002,해산물 맛보기,점심,foodie|seafood,False,20000
+A103,S001,역사 유적지 산책,오전,culture|history|walking|indoor,False,0
+A104,S002,카페 탐방,오후,cafe|foodie|solo,False,8000
+A105,S004,명상 체험,오전,relaxation|spiritual,True,40000
+A106,J002,해변 산책,오후,nature|beach|walking,False,0
+A107,B002,현지 맛집 투어,저녁,foodie|local|couple,False,15000
+A108,G001,게임방 체험,오후,entertainment|indoor,False,10000
+A109,S003,노래방 체험,저녁,entertainment|nightlife,False,15000
+A110,B003,해산물 맛보기,점심,foodie|seafood|outdoor,False,45000
+A111,G003,전통 공예 체험,하루종일,culture|experience,True,30000
+A112,B002,놀이공원,하루종일,entertainment|family|friends,False,60000
+A113,G015,전통 건축 탐방,오전,culture|history,False,5000
+A114,J001,스쿠버다이빙,오전,nature|water|sports|outdoor,True,150000
+A115,S003,문화재 해설 투어,이른아침,culture|history|photography|solo,True,15000
+A116,S002,현지 맛집 투어,점심,foodie|local|outdoor,False,25000
+A117,G003,도자기 만들기,오후,culture|craft|experience|family,True,25000
+A118,J002,드론 촬영 체험,오후,photography|technology,True,50000
+A119,J002,드론 촬영 체험,이른아침,photography|technology,True,70000
+A120,S001,해산물 맛보기,점심,foodie|seafood|solo,False,20000
+A121,S002,패션 거리 쇼핑,오후,shopping|fashion,False,100000
+A122,B001,포토 투어,오후,photography|walking|solo,False,25000
+A123,B003,공연 관람,이른아침,culture|entertainment,True,80000
+A124,S002,해변 산책,오후,nature|beach|walking,False,0
+A125,S001,패션 거리 쇼핑,오후,shopping|fashion,False,60000
+A126,G008,서핑 체험,점심,nature|beach|sports|indoor,True,40000
+A127,G002,패러글라이딩,오후,nature|adventure|view|couple,True,200000
+A128,S015,게임방 체험,오후,entertainment|indoor|indoor,False,15000
+A129,B003,현지 술집 체험,오전,foodie|nightlife,False,25000
+A130,B003,전통 춤 배우기,하루종일,culture|dance|experience,True,45000
+A131,J001,패션 거리 쇼핑,오후,shopping|fashion,False,100000
+A132,B002,현지 공예품 구매,오후,shopping|souvenir|culture,False,30000
+A133,J002,해변 산책,오후,nature|beach|walking,False,0
+A134,S002,요리 클래스,오후,cooking|culture|experience,True,80000
+A135,G003,전망대 관람,저녁,view|photography,False,10000
+A136,S002,문화재 해설 투어,오전,culture|history|photography,True,25000
+A137,S002,길거리 음식 체험,저녁,foodie|streetfood,False,12000
+A138,B001,테마파크 투어,하루종일,entertainment|family,False,100000
+A139,S004,패러글라이딩,오후,nature|adventure|view|outdoor,True,150000
+A140,G003,공연 관람,저녁,culture|entertainment,True,50000
+A141,S001,요가 클래스,오전,relaxation|wellness|outdoor,True,25000
+A142,G001,언어 교환,저녁,culture|language|social,False,20000
+A143,B003,박물관 관람,오후,culture|history,False,8000
+A144,S002,등산/트레킹,오전,nature|hiking,False,10000
+A145,G002,도자기 만들기,오후,culture|craft|experience,True,55000
+A146,J003,전통 시장 쇼핑,오후,shopping|souvenir,False,60000
+A147,S001,게임방 체험,오후,entertainment|indoor|solo,False,10000
+A148,S001,서핑 체험,오후,nature|beach|sports,True,60000
+A149,B003,게임방 체험,오후,entertainment|indoor,False,20000
+A150,B003,해산물 맛보기,점심,foodie|seafood|couple,False,45000
+A151,B002,서예 체험,오후,culture|art|experience,True,20000
+A152,G003,카약 체험,오후,nature|water|sports,True,45000
+A153,B001,전통 공예 체험,오후,culture|experience,True,20000
+A154,S004,서예 체험,오후,culture|art|experience,True,40000
+A155,J003,포토 투어,오후,photography|walking,False,15000
+A156,G001,패션 거리 쇼핑,오후,shopping|fashion,False,30000
+A157,S001,일출 감상,오전,nature|view|photography,False,0
+A158,G001,요가 클래스,오전,relaxation|wellness,True,25000
+A159,G002,도자기 만들기,오후,culture|craft|experience|solo,True,25000
+A160,S004,스쿠버다이빙,점심,nature|water|sports,True,150000
+A161,J003,드론 촬영 체험,오후,photography|technology|friends,True,100000
+A162,J002,현지 술집 체험,저녁,foodie|nightlife,False,35000
+A163,J002,테마파크 투어,저녁,entertainment|family|friends,False,70000
+A164,S002,해변 산책,오후,nature|beach|walking|couple,False,0
+A165,B003,일출 감상,오후,nature|view|photography,False,0
+A166,J001,해산물 맛보기,점심,foodie|seafood,False,20000
+A167,S003,디저트 맛집 투어,오후,foodie|dessert,False,20000
+A168,B003,현지 맛집 투어,점심,foodie|local,False,25000
+A169,J002,도자기 만들기,오후,culture|craft|experience|family,True,25000
+A170,G001,도자기 만들기,오후,culture|craft|experience|friends,True,25000
+A171,G001,일출 감상,이른아침,nature|view|photography,False,5000
+A172,S003,마사지 체험,오후,relaxation|wellness|outdoor,True,50000
+A173,J002,포토 투어,오후,photography|walking,False,35000
+A174,G002,놀이공원,저녁,entertainment|family|solo,False,60000
+A175,S001,패션 거리 쇼핑,오후,shopping|fashion,False,100000
+A176,J003,서핑 체험,오후,nature|beach|sports,True,40000
+A177,G001,도자기 만들기,점심,culture|craft|experience,True,55000
+A178,J001,박물관 관람,오후,culture|history,False,18000
+A179,G003,게임방 체험,오후,entertainment|indoor,False,10000
+A180,G001,서예 체험,오후,culture|art|experience,True,20000
+A181,S001,해산물 맛보기,점심,foodie|seafood,False,45000
+A182,S003,해변 산책,오후,nature|beach|walking,False,0
+A183,G003,면세점 쇼핑,오후,shopping|luxury|couple,False,200000
+A184,J003,현지 맛집 투어,오후,foodie|local|solo,False,35000
+A185,J001,스쿠버다이빙,오전,nature|water|sports,True,150000
+A186,J001,전통 시장 쇼핑,오후,shopping|souvenir|outdoor,False,20000
+A187,S002,패션 거리 쇼핑,오후,shopping|fashion|outdoor,False,30000
+A188,G003,패러글라이딩,오후,nature|adventure|view,True,150000
+A189,B003,명상 체험,오전,relaxation|spiritual|friends,True,40000
+A190,S004,명상 체험,오전,relaxation|spiritual|friends,True,40000
+A191,B003,도자기 만들기,오후,culture|craft|experience,True,55000
+A192,B001,공연 관람,저녁,culture|entertainment,True,30000
+A193,G002,요리 클래스,오후,cooking|culture|experience|friends,True,40000
+A194,G001,패션 거리 쇼핑,오후,shopping|fashion,False,60000
+A195,J003,전통 건축 탐방,오전,culture|history,False,10000
+A196,G004,패러글라이딩,저녁,nature|adventure|view|friends,True,100000
+A197,J001,전통 공예 체험,오후,culture|experience|solo,True,30000
+A198,B002,면세점 쇼핑,오후,shopping|luxury,False,50000
+A199,G001,문화재 해설 투어,오전,culture|history|photography,True,15000
+A200,J001,전통 건축 탐방,오전,culture|history,False,10000
